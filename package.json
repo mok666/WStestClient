@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mok666/WStestClient/issues"
   },
-  "homepage": "https://github.com/mok666/WStestClient#readme"
+  "homepage": "https://github.com/mok666/WStestClient#readme",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
 }
